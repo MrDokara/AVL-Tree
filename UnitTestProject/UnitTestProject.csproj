@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LabWork2\LabWork2.csproj">
+    <ProjectReference Include="..\LabWork2\AVLTreeLib.csproj">
       <Project>{62a80ad3-0a0a-4a00-85b2-bf5287878914}</Project>
-      <Name>LabWork2</Name>
+      <Name>AVLTreeLib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

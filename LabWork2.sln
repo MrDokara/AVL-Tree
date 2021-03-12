@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabWork2", "LabWork2\LabWork2.csproj", "{62A80AD3-0A0A-4A00-85B2-BF5287878914}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AVLTreeLib", "LabWork2\AVLTreeLib.csproj", "{62A80AD3-0A0A-4A00-85B2-BF5287878914}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{16F1E928-CA8B-463A-8A51-BB2D17F53E59}"
 EndProject
