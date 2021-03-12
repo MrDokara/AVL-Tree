@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using LabWork2;
+using AVLTreeLib;
 using System;
 
 namespace UnitTestProject

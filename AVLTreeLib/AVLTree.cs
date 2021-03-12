@@ -5,7 +5,7 @@ using System.IO;
 using System.Runtime.InteropServices.ComTypes;
 using System.Text;
 
-namespace LabWork2
+namespace AVLTreeLib
 {
     public class AVLTree<TKey, TValue> where TKey : IComparable<TKey>
     {

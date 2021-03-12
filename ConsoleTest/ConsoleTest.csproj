@@ -50,8 +50,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LabWork2\AVLTreeLib.csproj">
-      <Project>{62a80ad3-0a0a-4a00-85b2-bf5287878914}</Project>
+    <ProjectReference Include="..\AVLTreeLib\AVLTreeLib.csproj">
+      <Project>{003f0b05-3f24-4e3e-bda3-2e4180dd08fe}</Project>
       <Name>AVLTreeLib</Name>
     </ProjectReference>
   </ItemGroup>
